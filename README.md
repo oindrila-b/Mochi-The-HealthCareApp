@@ -13,4 +13,8 @@ Get Help -  this allows the user to book an appointment.
 
 Use of tools :  Android , Android Studio , some third party libraries.
 
+android requirement: Android 9.0 or more.
+
 link to project:https://drive.google.com/file/d/1EhxJ_FRc1NGlQzyulyCMBbap2EkbzBqQ/view?usp=sharing
+
+apk link: https://drive.google.com/file/d/19i_dfOoKL3cJXtw_8pdiGo--bNb61KYU/view?usp=sharing
