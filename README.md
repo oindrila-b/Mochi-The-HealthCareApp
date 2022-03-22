@@ -1,4 +1,7 @@
 # Mochi-The-HealthCareApp
+
+##The actual application can be found in the master branch.
+
 Mochi is an app that addresses the mental health of an individual and suggests basic remedies to the user.
 
 We've added features like 
